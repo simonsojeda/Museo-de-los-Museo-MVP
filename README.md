@@ -1,6 +1,6 @@
 [Repositorio GitHub](https://github.com/simonsojeda/Museo-de-los-Museo-MVP) · [Tablero Trello](https://trello.com/b/WLWXs7FH/museoappmovil)
 
-# Museo de los Museos · Android Kotlin (Duoc UC DSY1105)
+# Museo de los Museos · Android Kotlin (Duoc UC)
 
 **Estado:** MVP académico en desarrollo. Se ha mostrado en emulador inicio de sesión, dashboard, catálogo y carrito; otras pantallas requieren pruebas de funcionamiento. No es una versión de producción.
 
