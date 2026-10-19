@@ -1,0 +1,1 @@
+Apunta la cámara de la app a un código QR de esta carpeta. Cada código contiene únicamente el texto indicado en el nombre: MUSEO:1, PRODUCTO:1 o CURSO:3. En emulador, usa entrada manual si el dispositivo no expone cámara.

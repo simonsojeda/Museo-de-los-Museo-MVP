@@ -1,0 +1,145 @@
+﻿Lista,Tarjeta,Descripción,Etiqueta,Responsable sugerido,Criterio de aceptación
+Semana 1 · Fundamentos,01. Crear repositorio GitHub público y README inicial,"Objetivo: Crear repositorio GitHub público y README inicial.
+Criterio de aceptación: Registrar commits de ambos integrantes; añadir descripción, capturas y pasos de ejecución.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.2,A,"Registrar commits de ambos integrantes; añadir descripción, capturas y pasos de ejecución"
+Semana 1 · Fundamentos,02. Crear tablero Trello y asignar tareas,"Objetivo: Crear tablero Trello y asignar tareas.
+Criterio de aceptación: Crear listas, etiquetar rúbrica, asignar integrantes, capturar evidencia de actividad.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.2,B,"Crear listas, etiquetar rúbrica, asignar integrantes, capturar evidencia de actividad"
+Semana 1 · Fundamentos,03. Configurar proyecto Android Studio con Kotlin y Compose,"Objetivo: Configurar proyecto Android Studio con Kotlin y Compose.
+Criterio de aceptación: Gradle sync; instalación en emulador; pantalla inicial ejecuta.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,A,Gradle sync; instalación en emulador; pantalla inicial ejecuta
+Semana 1 · Fundamentos,04. Definir modelos Room y SQLite por perfil,"Objetivo: Definir modelos Room y SQLite por perfil.
+Criterio de aceptación: Tablas users, museums, products, favorites, cart, requests, scans y notices.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,B,"Tablas users, museums, products, favorites, cart, requests, scans y notices"
+Semana 1 · Fundamentos,05. Implementar tema visual navy/dorado y componentes,"Objetivo: Implementar tema visual navy/dorado y componentes.
+Criterio de aceptación: Paleta, jerarquía, fuentes, tarjetas, navegación y accesibilidad base.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.1,A,"Paleta, jerarquía, fuentes, tarjetas, navegación y accesibilidad base"
+Semana 1 · Fundamentos,06. Definir datos sintéticos y reglas de privacidad,"Objetivo: Definir datos sintéticos y reglas de privacidad.
+Criterio de aceptación: No almacenar identidades reales ni contraseñas institucionales; coordenadas sintéticas.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,B,No almacenar identidades reales ni contraseñas institucionales; coordenadas sintéticas
+Semana 1 · Fundamentos,07. Pantalla 1 · Bienvenida y animación,"Objetivo: Pantalla 1 · Bienvenida y animación.
+Criterio de aceptación: Logo, propósito, comenzar, transiciones visibles.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.2,A,"Logo, propósito, comenzar, transiciones visibles"
+Semana 2 · Usuarios y navegación,08. Pantalla 2 · Registro cliente validado,"Objetivo: Pantalla 2 · Registro cliente validado.
+Criterio de aceptación: Nombre, correo, clave, avatar, mensajes por campo; usuario Room.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.2,A,"Nombre, correo, clave, avatar, mensajes por campo; usuario Room"
+Semana 2 · Usuarios y navegación,09. Pantalla 3 · Login y roles demo,"Objetivo: Pantalla 3 · Login y roles demo.
+Criterio de aceptación: Cliente, investigador y administrador; impedir acceso a rol ajeno.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.1,B,"Cliente, investigador y administrador; impedir acceso a rol ajeno"
+Semana 2 · Usuarios y navegación,10. Pantalla 4 · Dashboard según perfil,"Objetivo: Pantalla 4 · Dashboard según perfil.
+Criterio de aceptación: Cliente: favoritos; admin: solicitudes; investigador: museos.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.1,A,Cliente: favoritos; admin: solicitudes; investigador: museos
+Semana 2 · Usuarios y navegación,11. Navegación inferior y control de estado,"Objetivo: Navegación inferior y control de estado.
+Criterio de aceptación: Inicio, mapa, catálogo, notificaciones y perfil sin inconsistencias.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.1,B,"Inicio, mapa, catálogo, notificaciones y perfil sin inconsistencias"
+Semana 2 · Usuarios y navegación,12. Aplicar MVVM para validaciones desacopladas,"Objetivo: Aplicar MVVM para validaciones desacopladas.
+Criterio de aceptación: Lógica en dominio/viewmodel, errores reflejados en interfaz.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.1,B,"Lógica en dominio/viewmodel, errores reflejados en interfaz"
+Semana 2 · Usuarios y navegación,13. Pantalla 15 · Perfil y configuración,"Objetivo: Pantalla 15 · Perfil y configuración.
+Criterio de aceptación: Datos del perfil, preferencias ficticias, cambio/cierre de sesión.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.2,A,"Datos del perfil, preferencias ficticias, cambio/cierre de sesión"
+Semana 3 · Museos y QR,14. Pantalla 5 · Mapa con marcadores y filtros,"Objetivo: Pantalla 5 · Mapa con marcadores y filtros.
+Criterio de aceptación: Mapa interactivo, países/proyectos y ficha de marcador.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.4.1,A,"Mapa interactivo, países/proyectos y ficha de marcador"
+Semana 3 · Museos y QR,15. Pantalla 6 · Detalle del museo,"Objetivo: Pantalla 6 · Detalle del museo.
+Criterio de aceptación: Ubicación, proyecto, descripción, ficha, favoritos y edición por rol.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.1,B,"Ubicación, proyecto, descripción, ficha, favoritos y edición por rol"
+Semana 3 · Museos y QR,16. Formularios investigador para museos,"Objetivo: Formularios investigador para museos.
+Criterio de aceptación: Alta/edición de ficha, validación de coordenadas.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.2,B,"Alta/edición de ficha, validación de coordenadas"
+Semana 3 · Museos y QR,17. Pantalla 7 · Cámara QR con permiso seguro,"Objetivo: Pantalla 7 · Cámara QR con permiso seguro.
+Criterio de aceptación: Escanear MUSEO:1/PRODUCTO:1; alternativa manual.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.4.1,A,Escanear MUSEO:1/PRODUCTO:1; alternativa manual
+Semana 3 · Museos y QR,18. Pantalla 8 · Resultado QR y error,"Objetivo: Pantalla 8 · Resultado QR y error.
+Criterio de aceptación: Éxito, error, abrir ficha; historial local sin duplicados.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.2,A,"Éxito, error, abrir ficha; historial local sin duplicados"
+Semana 3 · Museos y QR,19. Recurso nativo 2 · Ubicación del dispositivo,"Objetivo: Recurso nativo 2 · Ubicación del dispositivo.
+Criterio de aceptación: Solicitar permiso en ejecución y presentar ubicación aproximada.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.4.1,B,Solicitar permiso en ejecución y presentar ubicación aproximada
+Semana 3 · Museos y QR,20. Pantalla 11 · Favoritos independientes por usuario,"Objetivo: Pantalla 11 · Favoritos independientes por usuario.
+Criterio de aceptación: Agregar/quitar, Room; verificar aislamiento entre dos perfiles.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,B,"Agregar/quitar, Room; verificar aislamiento entre dos perfiles"
+Semana 4 · Comercio,21. Pantalla 9 · Catálogo con filtros y búsqueda,"Objetivo: Pantalla 9 · Catálogo con filtros y búsqueda.
+Criterio de aceptación: Cursos, libros, materiales y merchandising; datos ficticios.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.1,A,"Cursos, libros, materiales y merchandising; datos ficticios"
+Semana 4 · Comercio,22. Formularios administrador de catálogo,"Objetivo: Formularios administrador de catálogo.
+Criterio de aceptación: Agregar, editar, desactivar artículos; validación numérica.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.2,B,"Agregar, editar, desactivar artículos; validación numérica"
+Semana 4 · Comercio,23. Pantalla 10 · Detalle producto y cursos,"Objetivo: Pantalla 10 · Detalle producto y cursos.
+Criterio de aceptación: Cantidad, stock, carrito o solicitud de curso.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.1,A,"Cantidad, stock, carrito o solicitud de curso"
+Semana 4 · Comercio,24. Pantalla 12 · Carrito Room,"Objetivo: Pantalla 12 · Carrito Room.
+Criterio de aceptación: Cantidades por cliente, subtotal y limpieza al confirmar.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,B,"Cantidades por cliente, subtotal y limpieza al confirmar"
+Semana 4 · Comercio,25. Cotizador ficticio nacional e internacional,"Objetivo: Cotizador ficticio nacional e internacional.
+Criterio de aceptación: Calcular tarifa y total por peso/país/modalidad; pruebas unitarias.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.1,A,Calcular tarifa y total por peso/país/modalidad; pruebas unitarias
+Semana 4 · Comercio,26. Pantalla 13 · Historial de solicitudes,"Objetivo: Pantalla 13 · Historial de solicitudes.
+Criterio de aceptación: Cliente ve sus registros; admin actualiza estado.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,B,Cliente ve sus registros; admin actualiza estado
+Semana 4 · Comercio,27. Pantalla 14 · Notificaciones y avisos locales,"Objetivo: Pantalla 14 · Notificaciones y avisos locales.
+Criterio de aceptación: Persistencia Room y permiso Android 13 para aviso local.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.4.1,A,Persistencia Room y permiso Android 13 para aviso local
+Semana 4 · Comercio,28. Crear API REST ficticia y consumir Retrofit,"Objetivo: Crear API REST ficticia y consumir Retrofit.
+Criterio de aceptación: GET /api/museums y GET /api/catalog; caché Room.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,B,GET /api/museums y GET /api/catalog; caché Room
+Semana 5 · QA y entrega,29. Revisar las 15 pantallas con emulador,"Objetivo: Revisar las 15 pantallas con emulador.
+Criterio de aceptación: Navegación y scroll comprobados; capturas por pantalla.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.1.1,A,Navegación y scroll comprobados; capturas por pantalla
+Semana 5 · QA y entrega,30. Ejecutar pruebas de validadores y cotización,"Objetivo: Ejecutar pruebas de validadores y cotización.
+Criterio de aceptación: Casos válidos/invalidos; registrar resultados.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.2.1,B,Casos válidos/invalidos; registrar resultados
+Semana 5 · QA y entrega,"31. Probar cámara, QR, GPS y permisos","Objetivo: Probar cámara, QR, GPS y permisos.
+Criterio de aceptación: Permisos concedidos/denegados; emulador y equipo físico.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.4.1,A,Permisos concedidos/denegados; emulador y equipo físico
+Semana 5 · QA y entrega,32. Probar persistencia y segregación entre cuentas,"Objetivo: Probar persistencia y segregación entre cuentas.
+Criterio de aceptación: Cerrar sesión, reiniciar app y conservar favoritos / carrito.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.1,B,"Cerrar sesión, reiniciar app y conservar favoritos / carrito"
+Semana 5 · QA y entrega,33. Crear README final y documentación,"Objetivo: Crear README final y documentación.
+Criterio de aceptación: Nombres, instrucciones, casos de prueba, capturas, referencias.
+Responsable sugerido: integrante A.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.2,A,"Nombres, instrucciones, casos de prueba, capturas, referencias"
+Semana 5 · QA y entrega,"34. Revisar issues, commits y tablero Trello","Objetivo: Revisar issues, commits y tablero Trello.
+Criterio de aceptación: Actividad real de ambos integrantes con tarjetas cerradas y evidencia.
+Responsable sugerido: integrante B.
+Evidencia: commits + captura/prueba + comentario de Trello.",IE 2.3.2,B,Actividad real de ambos integrantes con tarjetas cerradas y evidencia
+Semana 5 · QA y entrega,35. Entregar repositorio público y código en AVA grupal,"Objetivo: Entregar repositorio público y código en AVA grupal.
+Criterio de aceptación: Verificar idéntico código; no modificar GitHub tras fecha de entrega.
+Responsable sugerido: integrante A+B.
+Evidencia: commits + captura/prueba + comentario de Trello.",Entrega,A+B,Verificar idéntico código; no modificar GitHub tras fecha de entrega
+Semana 5 · QA y entrega,36. Completar AVA individual y preparar defensa,"Objetivo: Completar AVA individual y preparar defensa.
+Criterio de aceptación: Indicar nombre y equipo; preparar demostración de 2 recursos nativos.
+Responsable sugerido: integrante A+B.
+Evidencia: commits + captura/prueba + comentario de Trello.",Entrega,A+B,Indicar nombre y equipo; preparar demostración de 2 recursos nativos
